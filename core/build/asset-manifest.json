@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.883da8e2.js",
+    "static/js/787.b701888c.chunk.js": "/static/js/787.b701888c.chunk.js",
+    "static/media/brahmanandam.gif": "/static/media/brahmanandam.c4b50835e0e3f10f28e4.gif",
+    "static/media/sd.webp": "/static/media/sd.1a9a99ec499a29a5154e.webp",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.883da8e2.js.map": "/static/js/main.883da8e2.js.map",
+    "787.b701888c.chunk.js.map": "/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.883da8e2.js"
+  ]
+}
